@@ -1,4 +1,5 @@
-<img width="347" height="114" alt="ascii-art-text" src="https://github.com/user-attachments/assets/656447ea-51d6-4121-a3d4-68b9927aff23" />
+<img width="720" height="1280" alt="videoframe_7729" src="https://github.com/user-attachments/assets/84fbc3f9-0299-405f-9bc7-b5b5f82fae09" />
+
 
   
 👋 Hello, **I’m Demiee_**  
