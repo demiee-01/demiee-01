@@ -1,8 +1,4 @@
-![8096e81eb121fb48dbbe7f1940cca75e](https://github.com/user-attachments/assets/d721b63f-60a3-485e-a056-6163c6032203)
 
-
-
-  
 👋 Hello, **I’m Demiee_**  
 
 I am a passionate **C/C++ developer and Linux enthusiast from Cambodia**.  
