@@ -11,6 +11,7 @@ I also love contributing to open-source projects and creating learning resources
 
 ### 🧰 Technical Skills
 **Languages:** C, C++, Java , Python
+
 **Tools:** Git, GitHub, Linux (Ubuntu), VSCode, Visual Studio  
 **Databases:** MySQL (basic)  
 **Other:** Algorithms & Data Structures, Embedded Systems, Linux Scripting, Networking Basics , OOP , DSA  
