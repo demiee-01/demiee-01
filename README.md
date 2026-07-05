@@ -1,6 +1,6 @@
 👋 Hello, **I’m Demiee_**  
 
-<img >https://ik.imagekit.io/wn1nobtx5/image/a1fd7f61-405f-4cff-99a2-b5b8ef503d48.png
+![Demiee Banner](https://ik.imagekit.io/wn1nobtx5/image/a1fd7f61-405f-4cff-99a2-b5b8ef503d48.png)
 
 
 I am a passionate **C/C++ developer and Linux enthusiast from Cambodia**.  
