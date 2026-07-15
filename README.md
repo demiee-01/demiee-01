@@ -1,4 +1,4 @@
-👋 Hello, **I’m Demiee_**  
+👋 Hello, **I’m Demiee_c1ph3r.**  
 
 ![Demiee Banner](https://ik.imagekit.io/wn1nobtx5/image/ll.png)
 
@@ -29,7 +29,7 @@ Hi, I'm **Pring Rady**, an **Information Technology Engineering (ITE)** student 
 
 I'm passionate about **software development, Linux, and cybersecurity**, with a strong interest in building practical applications and continuously expanding my technical knowledge. I enjoy solving programming challenges, exploring open-source technologies, and creating projects that improve my problem-solving and development skills.
 
-My current focus is on **C/C++, Java, Python, AI , Linux system administration, networking, and modern web development**. My goal is to become a skilled **Software Engineer** and **Cybersecurity Professional** while contributing to meaningful open-source projects.
+My current focus is on **C/C++, Java, Python, AI , Linux system administration, networking, and modern web development**. My goal is to become a skilled **Artificial intelligence , Software Engineer** and **Cybersecurity Professional** while contributing to meaningful open-source projects.
 
 <p align="center">
   <img
