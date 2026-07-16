@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,react,tailwind,mysql,linux,ubuntu,git,github,vscode,html,css&theme=light"
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,react,js,tailwind,mysql,linux,ubuntu,git,github,vscode,html,css&theme=light"
     width="700"
     alt="Tech Stack"
   />
@@ -29,7 +29,6 @@ Hi, I'm **Pring Rady**, an **Information Technology Engineering (ITE)** student 
 
 I'm passionate about **software development, Linux, and cybersecurity**, with a strong interest in building practical applications and continuously expanding my technical knowledge. I enjoy solving programming challenges, exploring open-source technologies, and creating projects that improve my problem-solving and development skills.
 
-My current focus is on **C/C++, Java, Python, AI , Linux system administration, networking, and modern web development**. My goal is to become a skilled **Artificial intelligence , Software Engineer** and **Cybersecurity Professional** while contributing to meaningful open-source projects.
 
 <p align="center">
   <img
