@@ -27,7 +27,7 @@
 
 Hi, I'm **Pring Rady**, an **Information Technology Engineering (ITE)** student at the **Royal University of Phnom Penh (RUPP), Cambodia**.
 
-I'm passionate about **software development, Linux, and cybersecurity**, with a strong interest in building practical applications and continuously expanding my technical knowledge. I enjoy solving programming challenges, exploring open-source technologies, and creating projects that improve my problem-solving and development skills.
+I'm passionate about **AI , software development, Linux, and cybersecurity**, with a strong interest in building practical applications and continuously expanding my technical knowledge. I enjoy solving programming challenges, exploring open-source technologies, and creating projects that improve my problem-solving and development skills.
 
 
 <p align="center">
@@ -58,7 +58,7 @@ I'm passionate about **software development, Linux, and cybersecurity**, with a 
 
  💻 **Projects**
 1. **Convert Link to QR with Custom Name** – Generate QR codes with custom text.  
-   [Live Demo](https://demiee-01.github.io/demiee_Qr1/)  
+   [Live Demo](https://demiee-qr1-juo4.vercel.app/)  
 
 2. **Telegram Bot for Adding Images to PDF** – Converts images to PDFs via Telegram.  
    [Telegram Bot](https://t.me/demiee_bot)  
