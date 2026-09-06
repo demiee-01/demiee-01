@@ -84,10 +84,6 @@ I'm passionate about **AI , software development, Linux, and cybersecurity**, wi
 
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9wMWRvbnhiNjI5bmplcHYyaGRtZWFpODUyMzVvdXhwODc4NnE2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YerjNzTZVaPH2M/giphy.gif"
-       alt="Matrix Binary Animation"
-       width="100%">
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Matrix Binary Animation" width="100%" /> </p>
 
 
